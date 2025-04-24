@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Fallen Angel",
+    "image": "",
+    "variants": {
+      "Toxic": {
+        "value": 12,
+        "demand": 5,
+        "exists": "345353"
+      },
+      "Normal": {
+        "value": 1,
+        "demand": 1,
+        "exists": "N/A",
+        "image": "https://i.postimg.cc/dVchwkHF/Fallen-Angel.png"
+      },
+      "Golden": {
+        "value": "N/A",
+        "demand": "N/A",
+        "exists": "N/A"
+      }
+    }
+  },
+  {
+    "name": "Volcanic Overlord",
+    "image": "",
+    "variants": {
+      "Toxic": {
+        "value": 12,
+        "demand": 5,
+        "exists": "345353"
+      },
+      "Normal": {
+        "value": 1,
+        "demand": 1,
+        "exists": "N/A",
+        "image": "https://i.postimg.cc/JhgPPCcP/Volcanic-Overlord.png"
+      },
+      "Golden": {
+        "value": "N/A",
+        "demand": "N/A",
+        "exists": "N/A"
+      }
+    }
+  }
+]
