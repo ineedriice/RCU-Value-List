@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Fallen Angel",
+    "image": "",
+    "variants": {
+      "Toxic": {
+        "value": 12,
+        "demand": 5,
+        "exists": "345353",
+        "image": "https://static.wixstatic.com/media/100973_c4cb8b30d8b34736a71a217e2432cb04~mv2.png/v1/fill/w_387,h_387,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inferno.png"
+      },
+      "Normal": {
+        "value": 1,
+        "demand": 1,
+        "exists": "N/A",
+        "image": "https://i.postimg.cc/dVchwkHF/Fallen-Angel.png"
+      },
+      "Golden": {
+        "value": "N/A",
+        "demand": "N/A",
+        "exists": "N/A",
+        "image": "https://static.wixstatic.com/media/100973_2bddef344c564fa68d70e1ced4769070~mv2.png/v1/fill/w_387,h_387,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inferno.png"
+      }
+    }
+  },
+  {
+    "name": "Volcanic Overlord",
+    "image": "",
+    "variants": {
+      "Toxic": {
+        "value": 12,
+        "demand": 5,
+        "exists": "345353",
+        "image": "https://static.wixstatic.com/media/100973_984602cffdf54d22b7282dfa62594ff1~mv2.png/v1/fill/w_387,h_387,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inferno.png"
+      },
+      "Normal": {
+        "value": 20,
+        "demand": 2,
+        "exists": "N/A",
+        "image": "https://i.postimg.cc/JhgPPCcP/Volcanic-Overlord.png"
+      },
+      "Golden": {
+        "value": "N/A",
+        "demand": "N/A",
+        "exists": "N/A",
+        "image": "https://static.wixstatic.com/media/100973_fadefdb39b584a7594133f15a617a649~mv2.png/v1/fill/w_387,h_387,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inferno.png"
+      }
+    }
+  },
+  {
+    "name": "Ultimate Tempest Lord",
+    "image": "https://static.wixstatic.com/media/595de3_72ccb14c92974818a4dcc6d883dbbe74~mv2.webp/v1/fill/w_387,h_387,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/inferno.webp",
+    "variants": {
+      "Normal": {
+        "value": 45000,
+        "demand": 9,
+        "exists": "62",
+        "image": "https://i.postimg.cc/0QbP9hVJ/595de3-72ccb14c92974818a4dcc6d883dbbe74-mv2.png"
+      },
+      "Golden": {
+        "value": "N/A",
+        "demand": "N/A",
+        "exists": "N/A",
+        "image": "https://static.wixstatic.com/media/2814ef_0b62ac4eb48143a89c5ecb7f583ffed2~mv2.png/v1/fill/w_387,h_387,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inferno.png"
+      },
+      "Toxic": {
+        "value": "N/A",
+        "demand": "N/A",
+        "exists": "N/A",
+        "image": "https://static.wixstatic.com/media/2814ef_cd086b1f8eb0401e86ae1736972d5723~mv2.png/v1/fill/w_387,h_387,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inferno.png"
+      }
+    }
+  }
+]
